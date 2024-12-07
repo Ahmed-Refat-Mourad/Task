@@ -1,0 +1,16 @@
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite name="Test Data">
+    <test name="Countries">
+
+        <groups>
+            <run>
+                <include name="group1"/>
+                <include name="group2"/>
+            </run>
+        </groups>
+        <classes>
+            <class name="Tests.T01_HomeTest"/>
+        </classes>
+    </test>
+
+</suite>

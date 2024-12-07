@@ -1,0 +1,29 @@
+{
+  "Egypt": {
+    "plan1": "LITE",
+    "price1": "0.25",
+    "plan2": "CLASSIC",
+    "price2": "0.5",
+    "plan3": "PREMIUM",
+    "price3": "1",
+    "currency": "EGP/month"
+  },
+  "Lebanon": {
+    "plan1": "LITE",
+    "price1": "2.4",
+    "plan2": "CLASSIC",
+    "price2": "4.8",
+    "plan3": "PREMIUM",
+    "price3": "7.2",
+    "currency": "LBP/month"
+  },
+  "UAE": {
+    "plan1": "LITE",
+    "price1": "5.4",
+    "plan2": "CLASSIC",
+    "price2": "10.9",
+    "plan3": "PREMIUM",
+    "price3": "16.3",
+    "currency": "UAD/month"
+  }
+}
